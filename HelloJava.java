@@ -12,6 +12,10 @@ public class HelloJava {
 		int yasim = 26;
 		double kilom = 56.5;
 		
+		
+		
+		
+		
 		String yasMetni = " yasindayim";
 		
 		System.out.println(metin + " " + ismim);
